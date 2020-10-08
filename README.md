@@ -1,4 +1,5 @@
-### Hi there 👋
+![GreaseMonkey banner](/src/GreaseMonkey_Banner.png)
+## Have no fear, GreaseMonkey is here! 🐵
 
 <!--
 **TheGreaseMonkey/TheGreaseMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
