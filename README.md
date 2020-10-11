@@ -1,4 +1,4 @@
-![GreaseMonkey banner](/src/GreaseMonkey_Banner.png)
+![GreaseMonkey banner](/src/Banner.png)
 ## Have no fear, GreaseMonkey is here! 🐵
 
 <!--
