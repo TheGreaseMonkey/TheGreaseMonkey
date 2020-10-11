@@ -6,8 +6,6 @@ Welcome! My name is Michael but online I hide behind the name GreaseMonkey. At t
 >
 > \- Leeroy Jenkins, May 11, 2005 
 
-## What am I interested in
-- 
 
 ## Who doesn't love trivia
 - You may find me on metal and rock festivals.
